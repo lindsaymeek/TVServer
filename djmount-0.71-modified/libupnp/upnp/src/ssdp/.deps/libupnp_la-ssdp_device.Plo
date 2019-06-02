@@ -1,0 +1,1 @@
+src/ssdp/libupnp_la-ssdp_device.lo: src/ssdp/ssdp_device.c

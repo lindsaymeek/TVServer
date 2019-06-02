@@ -1,0 +1,362 @@
+[I] Charset : successfully initialised charset='UTF-8'
+[I] UPnP Initialized (10.1.1.9:49152)
+[I] Add new device : Name='KITSTREAM: Family:' Id='uuid:01a5818d-9fa4-4638-a14e-6d000c33162a' descURL='http://10.1.1.8:2869/upnphost/udhisapi.dll?content=uuid:01a5818d-9fa4-4638-a14e-6d000c33162a'
+Waiting on Media Server Announcements
+[W] Device Id=uuid:01a5818d-9fa4-4638-a14e-6d000c33162a already added
+[I] Add new device : Name='KITSTREAM : TVersity Media Server' Id='uuid:9c095df7-544b-bc4b-8ab3-8918e7e479ae' descURL='http://10.1.1.8:41952/description/fetch'
+Scanning Network Tree
+Render Bootblock
+[E] Error in UpnpSendAction 'Browse' -- 801 (Unknown Error)
+[E] Can't find 'errorCode' element in XML Node (deep search=1)
+[E] Can't find 'errorDescription' element in XML Node (deep search=1)
+[E] Error SOAP in UpnpSendAction -- (null) ((null))
+[E] BrowseOrSearchAction ObjectId='0'
+Alternative root found //KITSTREAM : TVersity Media Server/Videos @ 8
+Optimising root dir
+Scanning Complete. Highest cluster 5869419 disk size 193690827 kB
+Listening on 00.01.6c.04.1e.53
+SL: WAITING ON REQ
+Render Master Boot Record
+Render File System Information Sector
+Render Bootblock
+Render File System Information Sector
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,0)
+RF:WAITING ON CACHE
+RF:WAITING ON READRESP
+StreamLoop: Opening //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg
+SL: WAITING ON FILEOP
+StreamLoop: OK
+SL: WAITING ON CACHE
+StreamLoop: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg offset=0 len=65536
+SL: WAITING FILEOP II
+SL: SIGNALLING DONE
+StreamLoop: Speculative read of clusters @ 848155 active 0
+SL: WAITING ON FILEOP III
+RF:WAITING ON CACHE II
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,1)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,2)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,3)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,0)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,1)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,2)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,3)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,4)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,5)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,6)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,7)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,8)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,9)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,10)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,11)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,12)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,13)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,14)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,15)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,16)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,17)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,18)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,19)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,20)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,21)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,22)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,23)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,24)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,25)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,26)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,27)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,28)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,29)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,30)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,31)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,32)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,33)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,34)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,35)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,36)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,37)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,38)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,39)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,40)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,41)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,42)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,43)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,44)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,45)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,46)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,47)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,48)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,49)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,50)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,51)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,52)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,53)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,54)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,55)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,56)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,57)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,58)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,59)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,60)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,61)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,0)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,1)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,2)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,3)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,4)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,5)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,6)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,7)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,8)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,9)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,10)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,11)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,12)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,13)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,14)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,15)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,16)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,17)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,18)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,19)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,20)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,21)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,22)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,23)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,24)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,25)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,0)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,1)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,2)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,3)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,4)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,5)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,6)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,7)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,8)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,9)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,10)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,11)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,12)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,13)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,14)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,15)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,16)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,17)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,18)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,19)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,20)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,21)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,22)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,23)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,24)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,25)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,0)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,1)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,2)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,3)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,4)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,5)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,6)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,7)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,8)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,9)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,10)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,11)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,12)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,13)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,14)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,15)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,16)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,17)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,18)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,19)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,20)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,21)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,22)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,23)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,24)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,25)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,26)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,27)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,28)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,29)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,30)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,31)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,32)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,33)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,34)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,35)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,36)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,37)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,38)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,39)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,40)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,41)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,42)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,43)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,44)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity Media Server/Videos/musicvids/BrianMcFadden.mpg (848153,45)
+RF:WAITING ON CACHE
+RenderFile: //KITSTREAM : TVersity M

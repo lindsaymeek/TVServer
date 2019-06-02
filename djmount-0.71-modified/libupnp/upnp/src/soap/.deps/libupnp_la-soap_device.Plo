@@ -1,0 +1,1 @@
+src/soap/libupnp_la-soap_device.lo: src/soap/soap_device.c

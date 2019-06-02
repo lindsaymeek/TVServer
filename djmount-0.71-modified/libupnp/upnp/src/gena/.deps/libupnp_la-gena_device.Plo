@@ -1,0 +1,3 @@
+src/gena/libupnp_la-gena_device.lo: src/gena/gena_device.c ../config.h
+
+../config.h:

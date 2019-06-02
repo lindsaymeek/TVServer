@@ -1,0 +1,20 @@
+build/PIC24FJ64GB002/production/_ext/1360937237/app_device_msd.o:  \
+ ../src/app_device_msd.c  \
+../src/system.h  \
+../src/io_mapping.h  \
+ ../src/system_config.h  \
+../src/usb_config.h  \
+../src/fileio_config.h  \
+ ../src/usb/usb.h  \
+../src/usb/usb_common.h  \
+../src/usb/usb_ch9.h  \
+ ../src/usb/usb_device.h  \
+../src/usb/usb_hal.h  \
+../src/usb/usb_hal_pic24f.h  \
+ ../../../../../../framework/usb/usb_device_hid.h  \
+ ../src/usb/usb_device_msd.h  \
+../src/fileio/fileio.h  \
+ ../src/ethernet/socket.h  \
+../src/Ethernet/wizchip_conf.h  \
+ ../src/Ethernet/W5500/w5500.h  \
+../src/ataoe.h 
