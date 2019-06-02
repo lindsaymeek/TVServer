@@ -21,3 +21,4 @@ The file server processes the ATAOE sector read requests originating from the de
 FAT32 disk drive. This disk drive is not real, and acts a translation layer to the local DLNA Media Network. 
 This network can then be used to directly access the Windows Media Server or a host of other DLNA media servers.
 
+See http://circuitcellar.com/wiznet2014/winners-second-meek for more info
